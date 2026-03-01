@@ -8,8 +8,6 @@
 ## Features
 - TF-IDF Vectorization
 - GridSearchCV Hyperparameter Tuning
-- ROC Curve
-- Precision-Recall Curve
 - Confusion Matrix
 
 ## How to Run
